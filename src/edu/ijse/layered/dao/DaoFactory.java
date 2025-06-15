@@ -8,7 +8,7 @@
  * @author osanda
  */
 package edu.ijse.layered.dao;
-import edu.ijse.layered.dao.custom.CustomerDao;
+
 import edu.ijse.layered.dao.custom.impl.CustomerDaoImpl;
 import edu.ijse.layered.dao.custom.impl.ItemDaoImpl;
 import edu.ijse.layered.dao.custom.impl.OrderDaoImpl;
