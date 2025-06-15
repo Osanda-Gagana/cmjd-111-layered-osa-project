@@ -15,3 +15,4 @@ import edu.ijse.layered.entity.OrderDetailEntity;
 public interface OrderDetailDao extends CrudDao<OrderDetailEntity, Object>{
     
 }
+
