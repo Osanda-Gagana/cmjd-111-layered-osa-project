@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/osanda/Documents/IJSE-CMJD-Works/2025-June-15/cmjd-ijse-111-layeredarch-Project/src/edu/ijse/layered/db/DBConnection.java</file>
+            <file>file:/home/osanda/Documents/IJSE-CMJD-Works/2025-June-15/cmjd-ijse-111-layeredarch-Project/src/edu/ijse/layered/dao/DaoFactory.java</file>
+            <file>file:/home/osanda/Documents/IJSE-CMJD-Works/2025-June-15/cmjd-ijse-111-layeredarch-Project/src/edu/ijse/layered/dao/SuperDao.java</file>
+            <file>file:/home/osanda/Documents/IJSE-CMJD-Works/2025-June-15/cmjd-ijse-111-layeredarch-Project/src/edu/ijse/layered/dao/CrudDao.java</file>
+            <file>file:/home/osanda/Documents/IJSE-CMJD-Works/2025-June-15/cmjd-ijse-111-layeredarch-Project/src/edu/ijse/layered/dao/CrudUtil.java</file>
+            <file>file:/home/osanda/Documents/IJSE-CMJD-Works/2025-June-15/cmjd-ijse-111-layeredarch-Project/src/edu/ijse/layered/dao/custom/CustomerDao.java</file>
+            <file>file:/home/osanda/Documents/IJSE-CMJD-Works/2025-June-15/cmjd-ijse-111-layeredarch-Project/src/edu/ijse/layered/dao/custom/ItemDao.java</file>
+            <file>file:/home/osanda/Documents/IJSE-CMJD-Works/2025-June-15/cmjd-ijse-111-layeredarch-Project/src/edu/ijse/layered/dao/custom/OrderDao.java</file>
+            <file>file:/home/osanda/Documents/IJSE-CMJD-Works/2025-June-15/cmjd-ijse-111-layeredarch-Project/src/edu/ijse/layered/dao/custom/OrderDetailDao.java</file>
+            <file>file:/home/osanda/Documents/IJSE-CMJD-Works/2025-June-15/cmjd-ijse-111-layeredarch-Project/src/edu/ijse/layered/dao/impl/ItemDaoImpl.java</file>
+            <file>file:/home/osanda/Documents/IJSE-CMJD-Works/2025-June-15/cmjd-ijse-111-layeredarch-Project/src/edu/ijse/layered/dao/impl/CustomerDaoImpl.java</file>
+        </group>
+    </open-files>
+</project-private>
